@@ -1,0 +1,22 @@
+
+
+#header{
+    width: 100%;  
+    
+}
+footer{
+    
+    background-color:black;
+    color:white;
+    height:auto;
+   
+}
+
+footer p {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#divpadrao{
+    padding-top: 50px;
+}
